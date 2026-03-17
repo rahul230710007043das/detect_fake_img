@@ -1,7 +1,7 @@
 import streamlit as st
 import cv2
 import numpy as np
-opencv-python-headless
+
 st.set_page_config(layout="wide")
 st.title("🕵️ Image Manipulation Detection System")
 
